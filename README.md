@@ -11,7 +11,7 @@
 ## 🧑 About me :
 
 <p>
-Autodidata em desenvolvimento de software.<br>
+Autodidata em programação e apaixonado por desenvolvimento de software.<br>
 </p>
 
 <h2>🥇 Specialised in:</h2>
