@@ -12,7 +12,7 @@
 Sou autodidata em desenvolvimento de software desdo meus 14 anos, e comecei como freelancer aos 16 anos,
 em uma comunidade de desenvolvedores de jogos. A princípio meu objetivo era aprender como os jogos eram criados, todas as etapas e desafios. </p>
 Com o tempo percebi que programação ia além do mercado de jogos, existindo diversos mundos como o desenvolvimento,
-de soluções de baixo nível, como Kernels, tecnologias Blockchains, ou desenvolvimento web. Hoje procuro amadurecer 
+de soluções de baixo nível, como Kernels, tecnologias Blockchains, ou desenvolvimento web. </p> Hoje procuro amadurecer 
 cada vez mais as tecnologias que me tornaram quem sou hoje, mas jamais deixando de abdicar das novidades e novas tendencias desse mundo incrível da computação. Mas o que eu realmente amo, é a forma que o software interage com o hardware.
 </p>
 
