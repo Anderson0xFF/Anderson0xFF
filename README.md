@@ -18,7 +18,7 @@ cada vez mais as tecnologias que me tornaram quem sou hoje, mas jamais deixando 
 
 <h2>🥇 Specialised in:</h2>
 <p> 🔸 Technology - BlockChain, Linux, Unity Engine, .NET 5, OpenGL, SDL
-<br>🔸 FrontEnd - LUA, ShellScript, JavaScript, TypeScript
+<br>🔸 FrontEnd - LUA, ShellScript, Python
 <br>🔸 BackEnd - Rust, C, C++, C#
 <p>
 
