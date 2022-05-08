@@ -18,22 +18,28 @@ Hoje procuro amadurecer cada vez mais as tecnologias que me tornaram quem sou ho
 
 <h2>🥇 Specialised in:</h2>
 
-
 [![logo rust](https://img.shields.io/badge/C-0f50db?style=for-the-badge&logo=c&logoColor=ffffff)](#)
 [![logo cpp](https://img.shields.io/badge/Cxx-7c1bde?style=for-the-badge&logo=cplusplus&logoColor=ffffff)](#)
 [![logo csharp](https://img.shields.io/badge/C_Sharp-934ed9?style=for-the-badge&logo=cSHARP&logoColor=ffffff)](#)
 [![logo rust](https://img.shields.io/badge/Rust-eb5510?style=for-the-badge&logo=rust&logoColor=ffffff)](#)
 [![logo python](https://img.shields.io/badge/python-106feb?style=for-the-badge&logo=python&logoColor=ffffff)](#)
 [![logo lua](https://img.shields.io/badge/LUA-106feb?style=for-the-badge&logo=lua&logoColor=ffffff)](#)
+[![logo json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](#)
 
 [![logo net](https://img.shields.io/badge/.net-7c1bde?style=for-the-badge&logo=dotnet&logoColor=ffffff)](#)
 [![logo opengl](https://img.shields.io/badge/OpenGL-0979ad?style=for-the-badge&logo=opengl&logoColor=ffffff)](#)
 [![logo linux](https://img.shields.io/badge/Linux-106feb?style=for-the-badge&logo=linux&logoColor=ffffff)](#)
 [![logo docker](https://img.shields.io/badge/Docker-106feb?style=for-the-badge&logo=docker&logoColor=ffffff)](#)
-[![logo sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#)
-[![logo json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](#)
+[![logo boost](https://img.shields.io/badge/Boost_Cpp-07405E?style=for-the-badge&logo=boost&logoColor=white)](#)
 
-[![logo bash](https://img.shields.io/badge/Unity-232423?style=for-the-badge&logo=unity&logoColor=white)](#)
+
+[![logo mysql](https://img.shields.io/badge/mysql-ff8903?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![logo psql](https://img.shields.io/badge/PSQL-02569B?style=for-the-badge&logo=PostgreSQL&logoColor=white)](#)
+[![logo mssql](https://img.shields.io/badge/MSSQL-e03f4a?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)](#)
+[![logo sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+
+
+[![logo unity](https://img.shields.io/badge/Unity-232423?style=for-the-badge&logo=unity&logoColor=white)](#)
 [![logo bash](https://img.shields.io/badge/bash-232423?style=for-the-badge&logo=shell&logoColor=white)](#)
 [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 
