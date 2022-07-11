@@ -9,7 +9,7 @@
 ## 🧑 About me :
 
 <p>
-Sou autodidata em desenvolvimento de software desdo meus 14 anos, e comecei como freelancer aos 16 anos,
+Sou autodidata em desenvolvimento de software desde que eu tinha 14 anos, e comecei como freelancer aos 16 anos,
 em uma comunidade de desenvolvedores de jogos. A princípio meu objetivo era aprender como os jogos eram criados, todas as etapas e desafios. </p>
 Com o tempo percebi que programação ia além do mercado de jogos, existindo diversos mundos como o desenvolvimento,
 de soluções de baixo nível, desenvolvimento web e outros. </p> 
