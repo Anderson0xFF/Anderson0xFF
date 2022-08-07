@@ -6,17 +6,12 @@
   Software Developer ⚡
 </h4>
 
-## 🧑 About me :
-
+<h3>🧑 About me:</h3>
 <p>
-Sou autodidata em desenvolvimento de software desde que eu tinha 14 anos, e comecei como freelancer aos 16 anos,
-em uma comunidade de desenvolvedores de jogos. A princípio meu objetivo era aprender como os jogos eram criados, todas as etapas e desafios. </p>
-Com o tempo percebi que programação ia além do mercado de jogos, existindo diversos mundos como o desenvolvimento,
-de soluções de baixo nível, desenvolvimento web e outros. </p> 
-Hoje procuro amadurecer cada vez mais as tecnologias que me tornaram quem sou hoje, mas jamais deixando de abdicar das novidades e novas tendencias desse mundo incrível da computação.
-</p>
+Sou autodidata em desenvolvimento de software há 10 anos, e freelancer há 8 anos. A principio meu foco era desenvolvimento de jogos, mas, com o tempo decidir migrar para outras areas como desenvolvimento de aplicativos desktop e desenvolvimento de APIs Web. </p>
 
-<h2>🥇 Specialised in:</h2>
+
+<h3>🥇 Specialised in:</h3>
 
 [![logo rust](https://img.shields.io/badge/C-0f50db?style=for-the-badge&logo=c&logoColor=ffffff)](#)
 [![logo cpp](https://img.shields.io/badge/Cxx-7c1bde?style=for-the-badge&logo=cplusplus&logoColor=ffffff)](#)
@@ -44,7 +39,7 @@ Hoje procuro amadurecer cada vez mais as tecnologias que me tornaram quem sou ho
 [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 
 
-<h2>ℹ️ &nbsp;Github Info</h2>
+<h3>ℹ️ &nbsp;Github Info</h3>
 	
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anderson0xFF&theme=github_dark" alt="Anderson0xFF" align = "center"/></p>
