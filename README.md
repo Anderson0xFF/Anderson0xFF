@@ -8,7 +8,7 @@
 
 <h3>🧑 About me:</h3>
 <p>
-Sou autodidata em desenvolvimento de software há 10 anos, e freelancer há 8 anos. A principio meu foco era desenvolvimento de jogos, mas, com o tempo decidir migrar para outras areas como desenvolvimento de aplicativos desktop e desenvolvimento de APIs Web. </p>
+Sou autodidata em desenvolvimento de software há 8 anos, e freelancer há 8 anos. A principio meu foco era desenvolvimento de jogos, mas, com o tempo decidir migrar para outras areas como desenvolvimento de aplicativos desktop e desenvolvimento de APIs Web. </p>
 
 
 <h3>🥇 Specialised in:</h3>
